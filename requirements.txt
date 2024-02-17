@@ -1,0 +1,4 @@
+click
+coloredlogs
+plumbum
+requests
