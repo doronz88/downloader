@@ -13,7 +13,7 @@ PACKAGES = ['mattermost', 'pycharm-ce', 'emacs', 'sublime-text', 'rectangle', 'p
             'scroll-reverser', 'discretescroll', 'obsidian', 'sensiblesidebuttons', 'freeplane', 'filemonitor']
 
 ASSETS_DIR = 'assets'
-DOWNLOADED_CACHE_FILE = Path(__file__).parent / 'cache.json'
+DOWNLOADED_CACHE_FILE = Path(__file__).parent / 'casks-cache.json'
 
 wget = local['wget']
 
