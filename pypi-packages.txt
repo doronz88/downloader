@@ -69,3 +69,5 @@ developer-disk-image
 hilda
 docstring-parser
 keystone-engine
+dns_local
+dnslib
