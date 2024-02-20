@@ -35,6 +35,9 @@ def download_latest_version_files(output: str, package_name: str) -> None:
             for file_info in files:
                 file_url = file_info['url']
                 local_filename = file_url.rsplit('/', 1)[1]
+                if local_filename in cache:
+                    print(f"skipping already downloaded: {local_filename}")
+                    continue
                 if (Path(output) / local_filename).exists():
                     print(f"skipping already downloaded {local_filename}")
                 download_file(file_url, output)
