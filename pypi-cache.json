@@ -586,5 +586,12 @@
     "keystone_engine-0.9.2-py2.py3-none-manylinux1_x86_64.whl",
     "keystone_engine-0.9.2-py2.py3-none-win32.whl",
     "keystone_engine-0.9.2-py2.py3-none-win_amd64.whl",
-    "keystone-engine-0.9.2.tar.gz"
+    "keystone-engine-0.9.2.tar.gz",
+    "rpcclient-4.3.1-py3-none-any.whl",
+    "rpcclient-4.3.1.tar.gz",
+    "dns_local-2.1.2-py3-none-any.whl",
+    "dns_local-2.1.2.tar.gz",
+    "dnslib-0.9.24-py2-none-any.whl",
+    "dnslib-0.9.24-py3-none-any.whl",
+    "dnslib-0.9.24.tar.gz"
 ]
