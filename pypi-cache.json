@@ -667,5 +667,22 @@
     "rpcclient-4.4.2-py3-none-any.whl",
     "rpcclient-4.4.2.tar.gz",
     "c_helpers-0.0.1-py3-none-any.whl",
-    "c-helpers-0.0.1.tar.gz"
+    "c-helpers-0.0.1.tar.gz",
+    "remotezip-0.12.3-py3-none-any.whl",
+    "remotezip-0.12.3.tar.gz",
+    "ipykernel-6.29.3-py3-none-any.whl",
+    "ipykernel-6.29.3.tar.gz",
+    "notebook-7.1.1-py3-none-any.whl",
+    "notebook-7.1.1.tar.gz",
+    "rpcclient-4.5.0-py3-none-any.whl",
+    "rpcclient-4.5.0.tar.gz",
+    "fastapi-0.110.0-py3-none-any.whl",
+    "fastapi-0.110.0.tar.gz",
+    "xonsh-0.15.0-py310-none-any.whl",
+    "xonsh-0.15.0-py311-none-any.whl",
+    "xonsh-0.15.0-py312-none-any.whl",
+    "xonsh-0.15.0-py39-none-any.whl",
+    "xonsh-0.15.0.tar.gz",
+    "c_helpers-1.0.0-py3-none-any.whl",
+    "c-helpers-1.0.0.tar.gz"
 ]
