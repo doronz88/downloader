@@ -684,5 +684,7 @@
     "xonsh-0.15.0-py39-none-any.whl",
     "xonsh-0.15.0.tar.gz",
     "c_helpers-1.0.0-py3-none-any.whl",
-    "c-helpers-1.0.0.tar.gz"
+    "c-helpers-1.0.0.tar.gz",
+    "pymobiledevice3-2.44.0-py3-none-any.whl",
+    "pymobiledevice3-2.44.0.tar.gz"
 ]
