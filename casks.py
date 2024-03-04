@@ -10,7 +10,7 @@ PACKAGES = ['mattermost', 'pycharm-ce', 'emacs', 'sublime-text', 'rectangle', 'p
             'google-chrome', 'firefox', 'drawio', 'audacity', 'microsoft-remote-desktop', 'vlc', 'cheatsheet',
             'vmware-fusion', 'db-browser-for-sqlite', 'iterm2', 'docker', 'ghidra', 'charles', 'pycharm',
             'webstorm', 'typora', 'clion', 'visual-studio-code', 'temurin', 'izip', 'rar', 'alt-tab', 'sourcetree',
-            'scroll-reverser', 'discretescroll', 'obsidian', 'sensiblesidebuttons', 'freeplane', 'filemonitor']
+            'scroll-reverser', 'discretescroll', 'obsidian', 'sensiblesidebuttons', 'filemonitor']
 
 ASSETS_DIR = 'assets'
 DOWNLOADED_CACHE_FILE = Path(__file__).parent / 'casks-cache.json'
