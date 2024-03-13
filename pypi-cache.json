@@ -739,5 +739,16 @@
     "pymobiledevice3-2.46.0-py3-none-any.whl",
     "pymobiledevice3-2.46.0.tar.gz",
     "hilda-1.3.0-py3-none-any.whl",
-    "hilda-1.3.0.tar.gz"
+    "hilda-1.3.0.tar.gz",
+    "packaging-24.0-py3-none-any.whl",
+    "packaging-24.0.tar.gz",
+    "pymobiledevice3-2.46.1-py3-none-any.whl",
+    "pymobiledevice3-2.46.1.tar.gz",
+    "uvicorn-0.28.0-py3-none-any.whl",
+    "uvicorn-0.28.0.tar.gz",
+    "xonsh-0.15.1-py310-none-any.whl",
+    "xonsh-0.15.1-py311-none-any.whl",
+    "xonsh-0.15.1-py312-none-any.whl",
+    "xonsh-0.15.1-py39-none-any.whl",
+    "xonsh-0.15.1.tar.gz"
 ]
