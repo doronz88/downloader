@@ -758,5 +758,16 @@
     "jupyter_core-5.7.2-py3-none-any.whl",
     "jupyter_core-5.7.2.tar.gz",
     "traitlets-5.14.2-py3-none-any.whl",
-    "traitlets-5.14.2.tar.gz"
+    "traitlets-5.14.2.tar.gz",
+    "protobuf-5.26.0-cp310-abi3-win32.whl",
+    "protobuf-5.26.0-cp310-abi3-win_amd64.whl",
+    "protobuf-5.26.0-cp37-abi3-macosx_10_9_universal2.whl",
+    "protobuf-5.26.0-cp37-abi3-manylinux2014_aarch64.whl",
+    "protobuf-5.26.0-cp37-abi3-manylinux2014_x86_64.whl",
+    "protobuf-5.26.0-cp38-cp38-win32.whl",
+    "protobuf-5.26.0-cp38-cp38-win_amd64.whl",
+    "protobuf-5.26.0-cp39-cp39-win32.whl",
+    "protobuf-5.26.0-cp39-cp39-win_amd64.whl",
+    "protobuf-5.26.0-py3-none-any.whl",
+    "protobuf-5.26.0.tar.gz"
 ]
