@@ -750,5 +750,13 @@
     "xonsh-0.15.1-py311-none-any.whl",
     "xonsh-0.15.1-py312-none-any.whl",
     "xonsh-0.15.1-py39-none-any.whl",
-    "xonsh-0.15.1.tar.gz"
+    "xonsh-0.15.1.tar.gz",
+    "jupyter_client-8.6.1-py3-none-any.whl",
+    "jupyter_client-8.6.1.tar.gz",
+    "hilda-1.4.0-py3-none-any.whl",
+    "hilda-1.4.0.tar.gz",
+    "jupyter_core-5.7.2-py3-none-any.whl",
+    "jupyter_core-5.7.2.tar.gz",
+    "traitlets-5.14.2-py3-none-any.whl",
+    "traitlets-5.14.2.tar.gz"
 ]
