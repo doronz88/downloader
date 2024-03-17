@@ -769,5 +769,13 @@
     "protobuf-5.26.0-cp39-cp39-win32.whl",
     "protobuf-5.26.0-cp39-cp39-win_amd64.whl",
     "protobuf-5.26.0-py3-none-any.whl",
-    "protobuf-5.26.0.tar.gz"
+    "protobuf-5.26.0.tar.gz",
+    "harlogger-4.0.3-py3-none-any.whl",
+    "harlogger-4.0.3.tar.gz",
+    "pymobiledevice3-2.46.2-py3-none-any.whl",
+    "pymobiledevice3-2.46.2.tar.gz",
+    "notebook-7.1.2-py3-none-any.whl",
+    "notebook-7.1.2.tar.gz",
+    "docstring_parser-0.16-py3-none-any.whl",
+    "docstring_parser-0.16.tar.gz"
 ]
