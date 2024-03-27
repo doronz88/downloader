@@ -1,1 +1,5 @@
 .idea
+node_modules
+package-lock.json
+package-tar
+.DS_Store
